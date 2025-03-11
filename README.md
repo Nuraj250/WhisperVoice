@@ -11,7 +11,7 @@ WhisperVoice is a browser extension for converting speech into text in real-time
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/whispervoice.git
+   git clone https://github.com/Nuraj250/whispervoice.git
    ```
 2. Open your browser and navigate to the Extensions page:
    - **For Chrome**: `chrome://extensions/`
